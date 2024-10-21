@@ -1,5 +1,5 @@
 from windows.window import abrir
-from windows.window import JanelaPrincipal, SelecaoArquivo
+from windows.window import JanelaPrincipal
 
 class Main():
     ...
